@@ -12,7 +12,7 @@ img{
 }
 
 nav ul li{
-    display: inline;
+    display: block;
     font-size: 32px ;
     color:grey ;
     border: 2px ;
@@ -34,4 +34,10 @@ article{
         text-align: center;
         font-size: 30px ;
         color: rgb(73, 73, 73);
+    }
+
+    script{
+        text-align: center;
+        font-size: 40px ;
+        color: aquamarine;
     }
