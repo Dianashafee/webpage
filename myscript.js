@@ -13,3 +13,6 @@ if (age > 18) {
   } 
   
 document.write('<h3>'+greeting+'</h3>');
+
+var name = prompt('what is your name?');
+var feeling = prompt('are you excited to shop with us?');
